@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Lesson13_Homework_Task1\Lesson13_Homework_Task5\bin\Debug\Lesson13_Homework_Task5.exe.config
+C:\Users\User\source\repos\Lesson13_Homework_Task1\Lesson13_Homework_Task5\bin\Debug\Lesson13_Homework_Task5.exe
+C:\Users\User\source\repos\Lesson13_Homework_Task1\Lesson13_Homework_Task5\bin\Debug\Lesson13_Homework_Task5.pdb
+C:\Users\User\source\repos\Lesson13_Homework_Task1\Lesson13_Homework_Task5\obj\Debug\Lesson13_Homework_Task5.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Lesson13_Homework_Task1\Lesson13_Homework_Task5\obj\Debug\Lesson13_Homework_Task5.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lesson13_Homework_Task1\Lesson13_Homework_Task5\obj\Debug\Lesson13_Homework_Task5.exe
+C:\Users\User\source\repos\Lesson13_Homework_Task1\Lesson13_Homework_Task5\obj\Debug\Lesson13_Homework_Task5.pdb
